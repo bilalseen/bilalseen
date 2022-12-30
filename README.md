@@ -50,7 +50,7 @@ while(alive){
 
 [linkedin]: https://www.linkedin.com/in/bilal-%C5%9Fen-41a5b6205/
 
-[twitter]: https://twitter.com/bilalsen2010
+[twitter]: [https://twitter.com/bilalsen2010](https://twitter.com/bilalsen2010)
 
 
 
