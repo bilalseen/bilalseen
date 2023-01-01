@@ -5,13 +5,13 @@ align="right" width="400" height="250">
 
 ## Iskenderun Technical University Computer Engineering student.
 
-<font>
+<!-- <font>
 while(alive){
         
     eat();
     sleep();
     code();
-} </font>
+} </font> -->
 
 
 ### Reach out of me
