@@ -18,16 +18,16 @@ while(alive){
 
 [<img  width="22" src="https://unpkg.com/simple-icons@v8/icons/instagram.svg" align="left" />][instagram]
 [<img  width="22" src="https://unpkg.com/simple-icons@v8/icons/linkedin.svg" align="left" />][linkedin]
-[<img  width="22" src="https://unpkg.com/simple-icons@v8/icons/twitter.svg" align="left" />][instagram]
+[<img  width="22" src="https://unpkg.com/simple-icons@v8/icons/twitter.svg" align="left" />][twitter]
 <br>
 <br>
 
 ### Tech I use 
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" width="25" height="25">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="25" height="25">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="25" height="25">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="25" height="25">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="25" height="25">
-
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" width="25" height="25">
 
 <br>
 
@@ -47,7 +47,7 @@ while(alive){
 
 [instagram]: https://www.instagram.com/bilalseen_/
 
-[linkedin]: https://www.linkedin.com/in/bilal-%C5%9Fen-41a5b6205/
+[linkedin]: https://www.linkedin.com/in/bilalseen/
 
 [twitter]: [https://twitter.com/bilalsen2010](https://twitter.com/bilalsen2010)
 
