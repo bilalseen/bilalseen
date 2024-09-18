@@ -1,7 +1,8 @@
 # Hello, I'm Bilal Şen! 👋
 
-**Frontend Developer** | Computer Engineering Student  
-I’m currently studying at **Iskenderun Technical University**. Passionate about learning new technologies and building user-friendly interfaces.
+**Frontend Developer | Computer Engineering Graduate**
+
+I’m a graduate from Iskenderun Technical University and **currently seeking opportunities** in **React Native** and Frontend Development. Passionate about learning new technologies and building user-friendly interfaces.
 
 ---
 
